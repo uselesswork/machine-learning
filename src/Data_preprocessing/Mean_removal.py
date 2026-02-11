@@ -1,4 +1,4 @@
-# 均值移除示例
+# 均值移除
 import numpy as np
 import sklearn.preprocessing as sp
 
